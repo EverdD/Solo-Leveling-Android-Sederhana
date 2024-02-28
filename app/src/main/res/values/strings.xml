@@ -1,0 +1,185 @@
+<resources>
+    <string name="app_name">Solo Leveling</string>
+    <string name="home_string">Solo Leveling</string>
+    <string name="about_string">About ME</string>
+    <string name="details_string">Character Information</string>
+    <!-- Firman Nurcahyo - 50421524 - Universitas Gunadarma - Bangkit - Dicoding -->
+    <string name="characters_name">Characters Name</string>
+    <string name="Voice">Voice By lorem ipsum dolor sit amet</string>
+    <string name="details">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium alias aliquam assumenda
+        dolorem earum eligendi enim eum excepturi, exercitationem expedita fugiat, id impedit ipsa magnam maiores odit,
+        officia optio provident quaerat quas quasi quis quod quos sed sint sit velit voluptas. Accusamus aut autem beatae,
+        consectetur consequatur deleniti dicta dignissimos dolor dolore, dolores earum est et eum expedita inventore
+        laborum laudantium libero minima minus modi molestiae non nulla officia perspiciatis quae quis quod rerum suscipit
+        tempora voluptas? Adipisci architecto blanditiis debitis dolores eos excepturi facilis hic laudantium libero minima
+        nesciunt, nihil nisi odit optio quasi recusandae sequi tenetur totam unde.</string>
+
+    <string name="image_splashscreen">image_splashscreen</string>
+
+    <string-array name="names">
+        <item>Cha Hae-In</item>
+        <item>Christopher Reed</item>
+        <item>Goto Ryuji</item>
+        <item>Liu Zhigang</item>
+        <item>Sung Jinwoo</item>
+        <item>Thomas Andre</item>
+        <item>Sung Il-Hwan</item>
+        <item>Go Gunhee</item>
+        <item>Lennart Niermann</item>
+        <item>Hwang Dongsoo</item>
+    </string-array>
+
+    <string name="about">about</string>
+    <string name="share">share</string>
+    <string name="todo"></string>
+
+    <string-array name="descriptions">
+        <item>(차해인) is a Korean S-Rank Hunter and the Vice-Guild Master of the Hunters Guild. She is also the wife of Sung Jinwoo and the mother of their son Sung Suho</item>
+        <item>(크리스토퍼 리드) was the strongest hunter in America and one of the five National Level Hunters, ranking 3rd in the world</item>
+        <item>(고토 류지) was the strongest hunter in Japan and the Guild Master of the Draw Sword Guild</item>
+        <item>(류즈캉刘志刚) is the strongest hunter in China and one of the five National Level Hunters, ranking 2nd in the world</item>
+        <item>(성진우 Seong Jin-Wu) is the main protagonist of Solo Leveling. Originally an infamously weak E-Rank Hunter</item>
+        <item> (트마스 아드레) is the strongest hunter in America and one of the five National Level Hunters, ranking 1st in the world</item>
+        <item>(성일환) was a Korean S-Rank Hunter and the father of Jinwoo and Jinah</item>
+        <item>(고건희) was a Korean S-Rank Hunter and the Chairman of the Korean Hunters Association</item>
+        <item>(레나트 니어만) is the strongest hunter in Germany, ranking 12th in the world</item>
+        <item>(황동수) was a Korean-American S-Rank Hunter and the younger brother of Hwang Dongsuk</item>
+    </string-array>
+
+    <string-array name="voice">
+        <item>Voice Over by Shizuku Kosaka</item>
+        <item>Voice Over by Matthew Mercer</item>
+        <item>Voice Over by Hiroshi Kamiya</item>
+        <item>Voice Over by Johnny Yong Bosch</item>
+        <item>Voice Over by Mamoru Miyano</item>
+        <item>Voice Over by Liam OBrien</item>
+        <item>Voice Over by Akio Otsuka</item>
+        <item>Voice Over by William Kent</item>
+        <item>Voice Over by Nolan North</item>
+        <item>Voice Over by Crispin Freeman</item>
+    </string-array>
+
+    <string-array name="details">
+        <item>Cha Hae-In (차해인) is a Korean S-Rank Hunter and the Vice-Guild Master of the Hunters Guild. She is also the wife of Sung Jinwoo and the mother of their son Sung Suho.
+            \n\n\""How I could ever tell him. I want you by my side until I draw my last breath?\" - Cha\'s thoughts during her conversation with Sung Jinwoo.
+            \n\u25CF\t Physical Appearance\nCha Hae-In is a striking young woman with gray eyes and blonde bob-cut hair. She often dons red-themed armor during raids and wields a black sword with a silver hilt. Notably, her eyes emit a yellow glow when she activates her abilities.
+            \n\u25CF\t Personality\nCha Hae-In is characterized as a meticulous and caring individual, particularly towards the safety of her comrades during missions. Despite her social awkwardness and lack of friends outside of work, she displays diligence in her training and a perceptive nature, as evidenced by her early suspicions about Sung Jinwoo.
+            \n\u25CF\t Abilities
+                \n- Master Swordsman : Cha demonstrates exceptional proficiency in swordsmanship, easily defeating opponents like Igris and utilizing creative techniques in battle.
+                \n- Enhanced Strength and Speed : She possesses remarkable physical prowess, able to overpower foes with ease and move swiftly in combat.\n\n- Enhanced Durability : Cha can withstand significant injuries and continue fighting, showcasing resilience against formidable opponents.
+                \n- Sword Dance, Sword of Light, Quake of Provocation : Cha employs various powerful techniques in battle, enhancing her offensive capabilities and causing devastating effects on her enemies.
+        </item>
+
+        <item>Christopher Reed (크리스토퍼 리드) was the strongest hunter in America and one of the five National Level Hunters, ranking 3rd in the world.
+            \n\n\u25CF\t Physical Appearance \nChristopher Reed is a muscular young man with wavy brown hair shaved on both sides of his head, blue eyes, and a slight beard. When using his powers or feeling aroused, his eyes glow a bright blue.
+            \n\n\u25CF\t Personality \nChristopher Reed is portrayed as a rather arrogant individual who is very proud of his powers. However, not stupid, as he takes Norma\'s warning about his impending death seriously. Impressive as a lone wolf and not the type to just give up without fighting back.
+            \n\n\u25CF\t Abilities
+                \n\n- Ruling Authority : Christopher is able to control and move objects through telekinesis.
+                \n\n- Spiritual Body Manifestation : Christopher is able to transform into a one-eyed giant with burnt orange hair. The fire generated from this ability is so powerful that it takes 14 S Rank Hunters to extinguish it.
+        </item>
+
+        <item>Goto Ryuji (고토 류지) was the strongest hunter in Japan and the Guild Master of the Draw Sword Guild.
+            \n\n\u25CF\t Physical Appearance \nGoto is a handsome middle-aged man with shaggy black hair and a neatly trimmed black beard. When using his powers or agitated, his eyes glow pure white. During the 4th Jeju Island Raid, he wore his guild\'s standard black battle uniform and wielded a long red katana.
+            \n\n\u25CF\t Personality \nGoto presents himself as a calm, collected, and polite individual who rarely ever shows signs of alarm or anger. However, in reality, he is consumed by overconfidence and has a cruel disregard for human life, as displayed when he left the Korean S-Rank Hunters to die for his own gain and showed no sympathy for his guild members when he discovered their corpses. He is also cunning and inquisitive, as he hatched the plot to lead the Korean S-Rankers to their deaths and quickly realized that Jinwoo was more powerful than he looked.\n\nHowever, due to his pride and longtime status as Japan\'s strongest hunter, Goto has a hard time accepting whenever someone is stronger than him and would flat-out deny that he was weaker than them, even if all evidence pointed to the contrary. This hubristic attitude ultimately led Goto to his death in battle against the Ant King, as his ego prevented him from realizing that he was outmatched until it was too late.
+            \n\n\u25CF\t Abilities
+                \nAs the greatest hunter in Japan, Goto was one of the strongest foreign hunters (aside from the National Level Hunters) introduced in the series. However, despite his status, Goto was no match for Jinwoo in a fight and was noted to be completely outclassed by Liu Zhigang, China\'s strongest hunter, in raw power by a Chinese navy captain who had seen them both in action firsthand.
+                \n\n- High-Level Strength : Goto could create lethal bursts of wind pressure with his strikes.
+                \n\n- High-Level Speed : Goto was able to move fast enough to use his hand like a blade and deflect the Ant King\'s first attack when the monster suddenly ambushed him from behind.
+        </item>
+
+        <item>Liu Zhigang (류즈캉刘志刚) is the strongest hunter in China and one of the five National Level Hunters, ranking 2nd in the world.
+            \n\n\u25CF\t Physical Appearance \nZhigang is a muscular and handsome young man with dark yellow eyes and long black hair that he wears in a ponytail, with several large additional strands of hair dangling from his head like leaves from a tree. When agitated or using his powers, his eyes glow bright yellow. He is usually seen wearing red or yellow cloaks with thick black collars, black pants, and black boots.
+            \n\n\u25CF\t Personality \nZhigang is brash and battle-hungry, expressing disappointment at not being able to fight the Ant King. He is blunt in conversation and bluntly stated to a Chinese reporter that Sung Jinwoo was far above him in strength, dismissing those who believed otherwise as fools. However, he is friendly and humble towards those who have gained his respect.
+            \n\n\u25CF\t Abilities \nAs one of the strongest hunters in the world, Zhigang possesses immense physical strength and speed. He can control objects via telekinesis and unleash explosive energy blasts with his sword swings.
+                \n\n- Immense Strength : Zhigang possesses immense physical strength.
+                \n\n- Immense Speed : Zhigang can move at immense speeds, demonstrated by his swift beheading of a giant.
+                \n\n- Ruler\'s Authority : Zhigang can control and move objects via telekinesis.
+                \n\n- Energy Blast : Zhigang can fire explosive energy blasts with his sword swings, capable of wiping out entire armies of ants.
+        </item>
+
+        <item>Sung Jinwoo (성진우 Seong Jin-Wu) is the main protagonist of Solo Leveling. Originally an infamously weak E-Rank Hunter, he got the chance of a lifetime when he was selected as the Player of the System, giving him the unique ability to grow in strength without restraint. As a result, by taking advantage of the opportunities offered to him by the System, Jinwoo eventually rose to power as humanity\'s greatest hunter and the second Shadow Monarch.
+            \n\n\u25CF\t Physical Appearance \nJinwoo is a handsome and muscular young man with gray eyes, black hair, and sharp facial features. When using his powers or agitated, his eyes glow bright purple. He is almost always seen wearing dark colors, particularly black, and after slaughtering the Monarchs for a second time, takes to wearing a black glove on his left hand, which was severely scarred in his battle with Antares.\n\nBefore he was chosen as the Player of the System, Jinwoo was a short and scrawny young man with hair long enough to completely cover his ears. His face was also very boyish, which made him look even younger than his younger sister Jinah, and he tended to dress in a simple blue hoodie and jeans.
+            \n\n\u25CF\t Personality \nJinwoo is a humble and benevolent individual who cares deeply for his family and has a strong thirst for power. As a result, he is very close to both his sister and his mother, and rarely wastes an opportunity to grow stronger.
+            \n\n\u25CF\t Abilities \nAs the second Shadow Monarch, Jinwoo is the strongest hunter in the world and one of the most powerful individuals in existence.
+                \n\n- Immense Strength : Jinwoo possesses tremendous physical strength. Even before obtaining his true power, he was strong enough to punch a large hole through the Statue of God\'s face and beat Thomas Andre, one of the five National Level Hunters, to the brink of death all with just his bare hands. Upon being revived by Ashborn and receiving the full extent of the former\'s power, Jinwoo\'s strength was increased to the point that he was able to effortlessly repel the Frost Monarch\'s attacks with one hand, kill Rakan in four strikes, and even fight on equal footing with Antares, the oldest and most powerful of the nine Monarchs.
+                \n\n- Immense Durability : Jinwoo is incredibly resilient to physical damage. He was virtually unharmed when the Ant King punched him in the face, only sustaining a small cut on his lip, and was able to keep fighting back at full strength even after suffering severe wounds in his battle with the Architect.
+                \n\n- Immense Speed : Jinwoo is incredibly fast and can move at speeds so great that most opponents are unable to track his movements. He was agile enough to keep up with the Frost Monarch\'s attacks during their second confrontation and upon obtaining his true power, was able to strike at the Beast Monarch with such speed that the latter didn\'t even realize that he\'d been attacked until after Jinwoo had cut off one of his legs. His movements are also said to resemble that of Cha Hae-In, who is renowned throughout all of Korea for her great speed.
+                \n\n- Master Combatant : Jinwoo is incredibly proficient in dagger-based combat. As a testament to this, he was able to keep up and defend from the Frost Monarch\'s attacks, despite the fact that the latter had his Spiritual Body Manifestation activated and possessed eons of battle experience, and probably would\'ve been able to land a killing blow had Rakan not ambushed him from behind. It should also be noted that Jinwoo is more than capable of handing himself in unarmed combat even though he doesn\'t specialize in hand-to-hand, as shown by how he was able to match the Architect\'s brutal attacks with his own during their brief fistfight in the Double Dungeon and later take down Thomas Andre using only his bare hands.
+                \n\n- Regenerative Healing Factor : Jinwoo is able to heal his injuries at far greater speeds than normal humans can. His healing abilities also accelerate exponentially when he sleeps.
+                \n\n- Agelessness : As an effect of having inherited Ashborn\'s powers, Jinwoo no longer ages naturally and has to consciously alter his body to look the age he wants. As a result, by the end of the series, he only appears to be in his thirties when he has actually been alive for over 80 years.
+                \n\n- Accelerated Development : Jinwoo\'s most astonishing ability is his explosive growth rate, a power unlike any other in the world. Not only does he grow stronger with every battle, but he also receives a massive boost in strength with each victory that he achieves. As a result of this, it only took him a few months of intensive training to become the strongest hunter in Asia.
+                \n\n- Armor Creation : By concentrating his powers around himself, Jinwoo can generate a layer of jet-black armor onto his body.
+                \n\n- Memory Manipulation : Jinwoo can manipulate the memories of other humans to a certain extent by making physical contact with them. So far, he has been shown to be able to erase certain memories from their minds, grant them their memories of the original timeline, and allow them to see into his own memories, as he did with Woo Jinchul to inform him of the existence of the Rulers and the Monarchs.
+                \n\n- Hypnosis : Jinwoo can hypnotize people into following the orders that he gives them by snapping his fingers, as displayed when he hypnotized Kim Chul into letting him go and becoming a better person when they encountered each other in the new timeline. However, since he has only ever been shown using this ability once, the limitations to it remain unknown.
+                \n\n- Unlimited Inventory : As the Player of the System, Jinwoo can store an unlimited number of items in his inventory and extract any number of those items for his own use whenever and whereever he wants.
+                \n\n- Monster Language Fluency : Jinwoo can speak and understand monster tongue, which he uses to communicate with his shadow soldiers and the enemy monsters that he encounters in battle.
+                \n\n- Indomitable Will : Due to his loving relationship with his family and his intense drive to become strong for their sake, Jinwoo has an extraordinary level of willpower. He has exemplified this trait even before he became the Player of the System, as shown by how he spent four years going on dungeon raids to financially support both his sister and his mother even though he nearly died on almost every raid he ever went on. Jinwoo\'s resolve to continuously put his life as risk for the welfare of his family was also ultimately the reason why Ashborn selected him as his successor, as he knew that Jinwoo would never quit fighting for his family no matter how high the odds were stacked against him.
+        </item>
+
+        <item>Thomas Andre (트마스 아드레) is the strongest hunter in America and one of the five National Level Hunters, ranking 1st in the world.
+            \n\n\u25CF\t Physical Appearance \nThomas is a huge, muscular man with long blonde hair, red eyes, a toothy smile, an overgrown blonde goatee, and black tattoos. When using his powers or agitated, his eyes glow bright yellow and golden vein-like patterns appear across his body. He is almost always dressed in a Hawaiian shirt, sunglasses, beach shorts, and sandals.
+            \n\n\u25CF\t Personality \nThomas is a proud and aggressive individual with a strong sense of camaraderie. As a result, he still gave Hwang Dongsoo a proper funeral even though the man was a heartless murderer and even fought Jinwoo to the death in order to save his life. Thomas also has little tolerance for insubordination and disrespect, as displayed when he threatened Dongsoo for attempting to argue with him and became angry when Jinwoo refused to spare Dongsoo for torturing Jinho.\n\nHowever, despite his pride, Thomas is very gracious in defeat, as he showed no ill will towards Jinwoo after the latter nearly killed him during their battle in the States. He also hates owing people favors and will go out of his way to make sure that they\'re even, as displayed when he traveled to Korea just to treat Jinwoo to a meal and give him Kamish\'s Wrath as repayment for sparing the lives of his guildmates.
+            \n\n\u25CF\t Abilities \nAs the vessel of a Ruler and a National Level Hunter, Thomas is one of the strongest hunters in the world and his immense power earns him both great fear and respect from his fellow S-Ranks and governments from all over the globe.
+                \n\n- Immense Strength : Thomas possesses immense physical strength. As a testament to this, he was able to send Jinwoo flying with one punch, bring down buildings just from the wind pressure generated from his attacks, and fight evenly against Rakan.
+                \n\n- Immense Durability : Thomas possesses immense durability and is able to withstand a ridiculous amount of punishment, even from opponents far stronger than himself, without slowing down in combat. He was able to continue fighting against Jinwoo even after the latter broke his arm and threw him through several buildings, and was completely unharmed when Rakan tried to slash him with his claws.
+                \n\n- Immense Speed : Thomas can move at immense speeds. He was able to keep up with Jinwoo in their battle and eject himself out of his armor so quickly Rakan didn\'t even notice that he was gone until it was almost too late.
+                \n\n- Reinforcement : Thomas dramatically increases both his defense and attack power, covering himself from head to toe in golden armor with black horns and giving his hair a glowing flame-like quality. It should be noted that the defensive power that Thomas gets from this skill is so great that Jinwoo bruised his hands from punching him so many times during their fight.
+                \n\n- Capture : Thomas telekinetically pulls in objects towards himself. According to Jinwoo, with Reinforcement activated, this attack is almost like a black hole in potency and he would have been sucked in had he not been able to use Ruler\'s Authority himself. As a further testament to the sheer might of this attack, it was able to pull Kamish out of the sky.
+                \n\n- Collapse : Thomas smashes his fists into the ground, creating a massive shockwave that demolishes anyone unfortunate enough to get caught in its blast radius.
+                \n\n- Spiritual Body Manifestation
+                \n\n- Power Smash : Thomas infuses his mana into a single arm and throws an extremely powerful punch.
+        </item>
+
+        <item>Sung Il-Hwan (성일환) was a Korean S-Rank Hunter and the father of Jinwoo and Jinah.
+            \n\n\u25CF\t Physical Appearance \nIl-Hwan was a handsome and muscular middle-aged man with gray eyes, shaggy black hair, and slight facial hair. When using his powers or agitated, his eyes glowed bright yellow. During his time on the run, Il-Hwan wore a tattered brown cloak over a ragged white undershirt, white bandages on both hands, baggy black pants, and a pair of black boots. In contrast, before he went missing, Il-Hwan sported a much cleaner look and was pictured wearing a brown jacket over a simple black undershirt.
+            \n\n\u25CF\t Personality \nIl-Hwan cared deeply for his family and had little tolerance for those who tried to harm them or get in the way of his mission, as displayed when he brutally beat Hwang Dongsoo to a bloody pulp for trying to murder his son for petty reasons. He was also selfless and merciful, as he went out of his way to save the innocent people who were caught in the crossfire of his battle with Hwang and chose to spare Hwang\'s life even though he could have easily killed him.
+            \n\n\u25CF\t Abilities \nAs the vessel of a Ruler, Il-Hwan was one of the strongest hunters in the world. However, unlike his son, his body was not magically conditioned to handle the full extent of his powers and as a result, he died shortly after overexerting himself in his skirmish with the Frost Monarch.
+                \n\n- Immense Strength : Il-Hwan possessed immense physical strength. He was strong enough to effortlessly overpower Hwang Dongsoo in battle, leaving the latter with injuries so severe that he took months to fully recover from them, and send Rakan flying through several buildings with one blow. He was also able to easily stab right through Rakan\'s jaw and incapacitate the Frost Monarch for a noticeable amount of time just by kicking him in the chin.
+                \n\n- Immense Speed : Il-Hwan was incredibly fast in battle. He was agile enough to dodge and counter the Frost Monarch\'s and Rakan\’s attacks at the same time, and deflect the Frost Monarch\'s barrage of icicles with little trouble.
+                \n\n- Stealth : Il-Hwan was able to camouflage with his surroundings and hide all traces of his presence, essentially turning himself both physically and magically invisible.
+                \n\n- Ruler\'s Authority : Il-Hwan was able to control and move objects via telekinesis.
+                \n\n- Spiritual Body Manifestation
+        </item>
+
+        <item>Go Gunhee (고건희) was a Korean S-Rank Hunter and the Chairman of the Korean Hunters Association.
+            \n\n\u25CF\t Physical Appearance \nGunhee was a muscular old man with gray hair, greenish-gray eyes, and numerous scars on his body. When using his powers, his eyes glowed bright yellow. As a high-ranking government official, he was usually seen wearing a three-piece suit.
+            \n\n\u25CF\t Personality \nGunhee was a humble, open, and honest individual who was very appreciative towards those with good morals, but also very distasteful towards those who only aimed for personal gain. As a result, Gunhee had a good relationship with Sung Jinwoo and was widely respected in Korean society. He was also a workaholic to the point that his job affected his health and had a strong desire to fight for the greater good, as he yearned to be a hunter again and hated the fact that his age was keeping him down.
+            \n\n\u25CF\t Abilities \nAs the vessel of a Ruler, Gunhee was one of the strongest hunters in the world and easily the second strongest hunter in Korea after Jinwoo. However, his old age prevented him from using his powers to their max and fighting for prolonged periods of time.
+                \n\n- Immense Strength : Gunhee possessed immense physical strength. He was strong enough to shatter large layers of ice with a single headbutt and easily deflect an energy blast from the Frost Monarch with his bare hand.
+                \n\n- Immense Durability : Despite his old age, Gunhee was an incredibly durable fighter. He was able to remain conscious for a significant amount of time after the Frost Monarch stabbed him through the chest and even gather enough strength to fling a fireball at the latter, only missing by a hair\'s breath.
+                \n\n- Immense Speed : Gunhee was incredibly fast in combat. He was able to keep up with the Frost Monarch in their brief battle and proved to be agile enough to even dodge some of the latter\'s attacks from point-blank range.
+                \n\n- Ruler\'s Authority : Gunhee was able to control and move objects via telekinesis.
+                \n\n- Spiritual Body Manifestation
+        </item>
+
+        <item>Lennart Niermann (레나트 니어만) is the strongest hunter in Germany, ranking 12th in the world.
+            \n\n\u25CF\t Physical Appearance \nLennart is a handsome young man with blue eyes and blonde hair. When using his powers, his eyes glow yellow. In his first appearance, he wore a long blue overcoat over a three-piece suit. During the events of the Canadian dungeon break, he wore cobalt blue armor with a light brown trim.
+            \n\n\u25CF\t Personality \nDespite being the strongest hunter in his homeland, Lennart is not particularly arrogant and is both polite and patient, as displayed when he waited for over two hours just for a chance to talk with Sung Jinwoo in person. He also has good judgement, as he immediately sought out Jinwoo\'s protection after the latter warned the international community about the threat of the Monarchs, and can be very selfless, as he risked his life to save Thomas Andre from Rakan.
+            \n\n\u25CF\t Abilities \nAs the strongest hunter in Germany with a world ranking of 12th, Lennart is heavily implied to outclass every other foreign hunter (aside from the National Level Hunters) introduced before him in the series. As a testament to this, he was able to sense the presence of the massive army of shadows concealed inside Jinwoo\'s shadow, something not even Goto Ryuji was able to do.
+                \n\n- Enhanced Strength : Lennart was able to hit Rakan in the face with enough force to disorientate him.
+                \n\n- Charge : Lennart is able to manifest a pair of transparent teal-colored gauntlets around his arms and fire off powerful blasts of energy at his targets.
+        </item>
+
+        <item>Hwang Dongsoo (황동수) was a Korean-American S-Rank Hunter and the younger brother of Hwang Dongsuk.
+            \n\n\u25CF\t Physical Appearance \nHwang was a large and muscular man with a cruel smile and black hair in a buzz cut. When agitated or using his powers, his eyes glowed bright red. During his trip to Korea, he wore a red t-shirt and gray jeans with a gold chain around his neck. While he was torturing Jinho, he wore black pants, a red undershirt, and a grayish-blue jacket with a flaming skull imprinted on the back.
+            \n\n\u25CF\t Personality \nHwang was a selfish and murderous meathead with little respect for human life. He was consumed by overconfidence, as displayed by how he genuinely believed that he stood a chance against opponents who were obviously far stronger than him, such as Sung Il-Hwan and Sung Jinwoo, and never even considered the possibility of losing against either of them. Hwang was also a bully who enjoyed abusing his power and targeting those who were weaker than him, an attitude that he shared with his brother.\nDespite his despicable personality, Hwang respected power, as displayed when he nervously backed off after Thomas Andre intimidated him into keeping his mouth shut with a show of force. He could also be cunning if he wanted to and deliberately abducted Jinho despite having been warned not to, as he knew that Thomas would step in on his behalf and let him evade the consequences of his crimes if Jinwoo tried to kill him.
+            \n\n\u25CF\t Abilities \nAs one of the few S-Ranks whose powers were upgraded by Norma Selner, Hwang was one of the strongest hunters in his guild and was obviously much more powerful than most of his S-Rank counterparts back home in Korea.
+                \n\n- Enhanced Strength : Hwang was able to effortlessly break a steel pole just by slamming Jinho up against it.
+                \n\n- Enhanced Durability : Hwang was able to get back up and continue fighting back even after an enraged Jinwoo brutally overpowered him.
+        </item>
+    </string-array>
+    <!-- Firman Nurcahyo - 50421524 - Universitas Gunadarma - Bangkit - Dicoding -->
+    <integer-array name="photos">
+        <item>@drawable/chahaein</item>
+        <item>@drawable/chrisreed</item>
+        <item>@drawable/gotoryuji</item>
+        <item>@drawable/liuzhigang</item>
+        <item>@drawable/sungjinwoo</item>
+        <item>@drawable/thomasandre</item>
+        <item>@drawable/sunghwan</item>
+        <item>@drawable/gogunhe</item>
+        <item>@drawable/lennart</item>
+        <item>@drawable/dongsoo</item>
+    </integer-array>
+
+</resources>
